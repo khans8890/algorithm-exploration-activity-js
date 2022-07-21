@@ -11,7 +11,7 @@ There are four separate algorithms implemented below:
 3. `binarSearch`
 4. `nestedLoop`
 
-You will invoke each function multiple times with an increasingly large lists. **You will update this README.md by replacing the emoji in the last column of each table with the corresponding number of operations that take place with each invocation**. You can make commits to this file directly. I have given you a little help by inserting print functions inside of each function so that all you have to do is count the number of times, each function prints a value.
+You will invoke each function multiple times with an increasingly large lists. **You will update this README.md by replacing the emoji in the last column of each table with the corresponding number of operations that take place with each invocation**. You can make commits to this file directly. We have given you a little help by console logging inside of each function so that all you have to do is **count the number of times, each function console.logs a value**.
 
 Finally, after you have observed the number of operations for each function call, **you will plot them on [this graph](https://www.desmos.com/calculator/rlh5wglbky) to better visualize how they scale.**
 
