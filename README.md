@@ -27,13 +27,13 @@ function appendRandom(list) {
 
 | Append                                                                                                                                                                               | Length of Input | # of Operations |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------------|
-| appendRandom([])                                                                                                                                                                     | 0               | 😴               |
-| appendRandom(['a'])                                                                                                                                                                  | 1               | 🤔               |
-| appendRandom(['a', 'b'])                                                                                                                                                            | 2               | 🤔               |
-| appendRandom(['a', 'b', 'c', 'd'])                                                                                                                                                  | 4               | 🤔               |
-| appendRandom(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'])                                                                                                                              | 8               | 🧐               |
-| appendRandom(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p'])                                                                                      | 16              | 😕               |
-| appendRandom(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'za', 'zb', 'zc', 'zd', 'ze', 'zf']) | 32              | 🤯               |
+| appendRandom([])                                                                                                                                                                     | 0               | 1              |
+| appendRandom(['a'])                                                                                                                                                                  | 1               | 2               |
+| appendRandom(['a', 'b'])                                                                                                                                                            | 2               | 3              |
+| appendRandom(['a', 'b', 'c', 'd'])                                                                                                                                                  | 4               | 5               |
+| appendRandom(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'])                                                                                                                              | 8               | 9               |
+| appendRandom(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p'])                                                                                      | 16              | 18               |
+| appendRandom(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'za', 'zb', 'zc', 'zd', 'ze', 'zf']) | 32              | 32              |
 
 
 ## 2. Loop
